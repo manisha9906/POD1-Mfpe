@@ -39,10 +39,10 @@ User has to enter his username and password to login. Following credentials can 
 
 | Username   | Password| 
 | -----------|:--------|
-| Vaibhav    | Vaibhav123|
-| Pratik     | Pratik123  |
-| naveen     |bugs1234|
-| Pranjali   |Pranjali123 |
+| manisha    | 1234 |
+| hema     | hema123  |
+| rajath    |rajath1234|
+| sowmya   |sowmya123 |
 
 ![alt-text](https://github.com/pratikkhandale/MFPE-Claim-Management/blob/main/Usage%20Images/homePage.jpeg)
 
@@ -93,7 +93,7 @@ The users's session will be valid for `30 minutes` after which the user will be 
 
 ## Developers
 
-* [Pratik Khandale](https://github.com/pratikkhandale)
-* [Vaibhav Maithani](https://github.com/vaibhavmaithani15)
-* [Sai Naveen Marni](https://github.com/naveenmarni8)
-* [Pranjali Gurav](https://github.com/Gurav-pranjali)
+* [Manisha]
+* [Hema Priya]
+* [Rajath]
+* [Sowmya]
